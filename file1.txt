@@ -3,4 +3,4 @@ Change 1
 
 Change to line
 
-in branch and in master
+only in master
